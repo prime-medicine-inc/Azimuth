@@ -1,5 +1,5 @@
 Azimuth==2.0
-biopython==1.77
+biopython==1.80
 cycler==0.10.0
 joblib==0.16.0
 kiwisolver==1.2.0
